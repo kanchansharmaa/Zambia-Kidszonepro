@@ -1,0 +1,13 @@
+https://zm.kidszonepro.com/notify-callback?vendorName=boldmedia&circle=zambia&msisdn=260951596803&amount=0.4&transactionId=160663&action=Fresh&userStatus=0&operator=zamtel&channel=WEB&packName=kidszone_d&language=English 
+
+vendorName: boldmedia
+circle: zambia
+msisdn: 260951596803
+amount: 0.4
+transactionId: 160663
+action: Fresh
+userStatus: 0
+operator: zamtel
+channel: WEB
+packName: kidszone_d
+language: English
